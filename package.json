@@ -1,0 +1,13 @@
+{
+  "name": "xu.su-bot",
+  "version": "1.0.0",
+  "description": "Discord bot based on xu.su api (dialog bot)",
+  "main": "index.js",
+  "repository": "https://github.com/Nefelit/xu.su-bot.git",
+  "author": "X-49",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
